@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoPlay</string>
+    <string name="accessibility_desc">快手辅助</string>
+    <string name="accessibility_tip">快手辅助</string>
+</resources>
